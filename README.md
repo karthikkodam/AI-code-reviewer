@@ -22,7 +22,7 @@
 ### Steps :
 
 #### Clone the repository :
-git clone https://github.com/your-username/ai-code-reviewer.git
+git clone : https://github.com/karthikkodam/AI-code-reviewer.git
 cd ai-code-reviewer
 
 #### Install dependencies :
